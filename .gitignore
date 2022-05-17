@@ -33,3 +33,4 @@
 
 # mac temp file
 .DS_Store
+build/
