@@ -34,3 +34,4 @@
 # mac temp file
 .DS_Store
 build/
+cmake-build-debug/
